@@ -1,4 +1,6 @@
-run.py will start the program
+charging_webserver.py startar webservern
+
+run.py startar programmet
 
 De två PNG filerna är för inlämning 2 och de svarar på problemet olika eftersom jag inte var säker på frågan.
 
